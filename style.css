@@ -1,0 +1,23 @@
+.navbar-brand {
+    margin: 5px 10px;
+}
+
+.navbar-nav {
+    margin: 5px 10px;
+}
+
+.card-group {
+    margin: 10px 10px;
+}
+
+#proyectos {
+    text-align: center;
+    border-radius: 10px;
+}
+
+.informacion{
+    text-align: center;
+}
+footer {
+    text-align: end;
+}
